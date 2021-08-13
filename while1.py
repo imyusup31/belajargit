@@ -1,4 +1,8 @@
-	def multiplication_table(number):
+
+# Question 5
+# The multiplication_table function prints the results of a number passed to it multiplied by 1 through 5. An additional requirement is that the result is not to exceed 25, which is done with the break statement. Fill in the blanks to complete the function to satisfy these conditions.
+
+def multiplication_table(number):
     	# Initialize the starting point of the multiplication table
 	multiplier = 1
 	# Only want to loop through 5
@@ -19,7 +23,3 @@ multiplication_table(5)
 
 multiplication_table(8)	
 # Should print: 8x1=8 8x2=16 8x3=24
-
-
-# Question 5
-# The multiplication_table function prints the results of a number passed to it multiplied by 1 through 5. An additional requirement is that the result is not to exceed 25, which is done with the break statement. Fill in the blanks to complete the function to satisfy these conditions.
